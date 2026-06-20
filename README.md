@@ -347,11 +347,7 @@ git push origin feature/new-feature
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
@@ -362,6 +358,4 @@ This project is licensed under the MIT License.
 * Spring Boot Enthusiast
 * Open Source Contributor
 
----
 
-⭐ If you found this project useful, please give it a Star on GitHub and support the project.
